@@ -1,0 +1,12 @@
+new_Ibook
+Prince
+GN101 1 2
+
+Iboook
+Bannu
+Gn102 2 2
+
+IIbook
+Munna
+CS1200 3 3
+
